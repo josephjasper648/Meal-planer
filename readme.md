@@ -1,0 +1,7 @@
+    - Install express using npm install express
+   - Create .gitignore file and add node_modules/ to it
+   - Create server.js file
+   - Import express
+   - Create express app
+   - Listen on a port for incoming requests
+   - Setup a basic route to test the server
